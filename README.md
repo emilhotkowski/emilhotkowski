@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @emilhotkowski
-- 👀 I’m interested in Functional Programming
-- 🌱 I’m currently learning ZIO, Cats and Haskell
-- 💞️ I’m looking to collaborate on anything FP related!
+- 🌱 I’m currently learning Rust
 
 <!---
 emilhotkowski/emilhotkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
